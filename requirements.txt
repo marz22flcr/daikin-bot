@@ -1,0 +1,7 @@
+python-telegram-bot
+openai
+langchain-huggingface
+langchain-chroma
+chromadb
+python-dotenv
+sentence-transformers
